@@ -1,4 +1,4 @@
-# <img height="48" src="E:\Download\taxi_cab_transportation_automobile_car_vehicle_icon_128574.svg" width="48"/>Taxi service<img height="48" src="E:\Download\taxi_cab_transportation_automobile_car_vehicle_icon_128574.svg" width="48"/>
+# <img alt="taxi_icon.svg" height="48" src="src/main/resources/taxi_icon.svg" width="48"/>Taxi service<img alt="taxi_icon.svg" height="48" src="src/main/resources/taxi_icon.svg" width="48"/>
 ## Project description:
 `A simple web-application that implement work of a taxi service and supports authentication and other CRUD operations.`
  
